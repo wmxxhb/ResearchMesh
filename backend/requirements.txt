@@ -1,6 +1,6 @@
 # ResearchMesh Backend 依赖
 
-fastapi>=0.115.0
+fastapi>=0.162.0
 uvicorn[standard]>=0.30.0
 aiosqlite>=0.20.0
 
