@@ -6,6 +6,16 @@ ResearchMesh 是一个支持本地运行的 AI 深度研究应用。输入研究
 
 应用提供 Web 工作区和命令行入口。Web 工作区支持实时查看研究进度、管理历史记录、切换报告风格，以及将报告转化为播客脚本和幻灯片内容。
 
+### 界面预览
+
+**新建研究**
+
+![ResearchMesh 新建研究页面](docs/images/researchmesh-home.jpg)
+
+**报告阅读与工具栏**
+
+![ResearchMesh 报告页面：风格切换、播客脚本、PPT、编辑与导出](docs/images/researchmesh-report.jpg)
+
 ## 功能介绍
 
 | 功能 | 说明 |
